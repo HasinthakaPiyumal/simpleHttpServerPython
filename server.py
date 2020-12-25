@@ -32,3 +32,9 @@ while True:
 
 # Mekedi Encode decode karanne network ekaka comunicate karaddi binary walin comunication eka sidda wena nisa :)
 # UTF-8 Kiyanne unicode walata adala encoding system ekak --> https://en.wikipedia.org/wiki/UTF-8
+
+
+#   Request eka gana      -> https://www.tutorialspoint.com/http/http_requests.htm
+#   Response MSG Eka gana -> https://www.tutorialspoint.com/http/http_responses.htm
+#   HTTP Message Examples -> https://www.tutorialspoint.com/http/http_message_examples.htm
+
