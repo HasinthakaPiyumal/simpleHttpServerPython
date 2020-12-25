@@ -14,6 +14,7 @@ HTTP/1.1 200 OK
 </html>
 """
 
+print("Enter Url : 127.0.0.1:2002 in your browser \n\n")
 while True:
     with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
         s.bind((HOST, PORT))
