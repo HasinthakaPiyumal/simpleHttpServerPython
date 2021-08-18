@@ -2,7 +2,7 @@ import socket
 import os
 
 HOST = ''
-PORT = os.environ.get("PORT", 8080)
+PORT = int(os.environ.get("PORT", 8080))
 
 #Response Message Eka
 response = """\
