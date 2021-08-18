@@ -1,7 +1,7 @@
 import socket
 
 HOST = ''
-PORT = 2002
+PORT = 8080
 
 #Response Message Eka
 response = """\
