@@ -1,7 +1,8 @@
 import socket
+import os
 
 HOST = ''
-PORT = process.env.port || 8080
+PORT = os.environ.get("PORT", 8080)
 
 #Response Message Eka
 response = """\
